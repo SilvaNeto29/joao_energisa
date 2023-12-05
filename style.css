@@ -1,7 +1,7 @@
 
 .header{
     font-family: 'Roboto Mono', monospace;
-    background: url('/img/homem_idoso.jpg') center/cover no-repeat;
+    background: url('img/homem_idoso.jpg') center/cover no-repeat;
     position: relative;
     height: 50vh;
     color: #fff;
